@@ -10,8 +10,12 @@ Teste testetestetet
 
 - asdad
 
-- adicionei para test
+- adicionei para testedeeffefeffff
 
   ​
 
-  [[]]xxx
+<<<<<<< HEAD
+  [[]]xx
+=======
+  [[]]
+>>>>>>> 2ae7e945be37551f82c68a2eaf0dfb33b07b2aa1
